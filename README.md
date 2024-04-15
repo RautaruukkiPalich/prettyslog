@@ -16,5 +16,5 @@ go get github.com/rautaruukkipalich/prettyslog/@latest
 log := prettyslog.NewPrettyLogger()
 ```
 
-Пример отображения логов:
+## Пример отображения логов
 ![alt test1](https://github.com/rautaruukkipalich/prettyslog/blob/main/img/1.PNG?raw=true)
