@@ -8,7 +8,7 @@
 
 ## Установка
 ```sh
-go get github.com/rautaruukkipalich/prettyslog/@latest
+go get github.com/rautaruukkipalich/prettyslog@latest
 ```
 
 ## Инициализвация логгера
