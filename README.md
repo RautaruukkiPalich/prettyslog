@@ -27,6 +27,11 @@ log := prettyslog.NewPrettyLogger(indent)
 log := prettyslog.NewPrettyLogger("\t")
 ```
 
-## Пример отображения логов
+### ВАЖНО:
+
+1) Логгер не умеет отображать неэкспортируемые структуры и поля структур (соттветственно и вложенности неэкспортируемых полей)
+2) Логгер не умеет переименовывать поля структур в соответствии с JSON/TOML/YAML и т.д. тэгами/флагами, а будет использовать их сырые названия 
+
+### Пример отображения логов
 ![alt img1](https://github.com/rautaruukkipalich/prettyslog/blob/main/img/11.PNG?raw=true)
 ![alt img2](https://github.com/rautaruukkipalich/prettyslog/blob/main/img/22.PNG?raw=true)
