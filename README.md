@@ -28,5 +28,5 @@ log := prettyslog.NewPrettyLogger("\t")
 ```
 
 ## Пример отображения логов
-![alt test1](https://github.com/rautaruukkipalich/prettyslog/blob/main/img/2.PNG?raw=true)
-![alt test1](https://github.com/rautaruukkipalich/prettyslog/blob/main/img/1.PNG?raw=true)
+![alt img1](https://github.com/rautaruukkipalich/prettyslog/blob/main/img/11.PNG?raw=true)
+![alt img2](https://github.com/rautaruukkipalich/prettyslog/blob/main/img/22.PNG?raw=true)
